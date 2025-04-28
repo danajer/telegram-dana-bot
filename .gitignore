@@ -1,3 +1,9 @@
+# Folder node_modules agar tidak di-push ke GitHub
+node_modules/
+
+# File .env yang berisi variabel sensitif seperti bot token
+.env
+
 # Logs
 logs
 *.log
